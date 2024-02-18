@@ -1,0 +1,8 @@
+#+title:                 Following Nature of Code (Book by Daniel Shiffman) with Odin+Raylib
+#+author:                Krishna (Anshirk0)
+#+email:                 krishna404@yandex.com
+#+language:              en
+
++ Git repo on Codeberg: <https://codeberg.org/anhsirk0/noc-odin>
+  - Mirrors:
+    + GitHub: <https://github.com/anhsirk0/noc-odin>
